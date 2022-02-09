@@ -1,1 +1,2 @@
-# A template for making a d3 bar chart 
+# A template for making a d3 bar chart with React framework
+
