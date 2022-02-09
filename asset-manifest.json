@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/d3-bar-template/static/css/main.e9a9d458.css",
+    "main.js": "/d3-bar-template/static/js/main.346445c5.js",
+    "static/js/787.0faa2b1f.chunk.js": "/d3-bar-template/static/js/787.0faa2b1f.chunk.js",
+    "index.html": "/d3-bar-template/index.html",
+    "main.e9a9d458.css.map": "/d3-bar-template/static/css/main.e9a9d458.css.map",
+    "main.346445c5.js.map": "/d3-bar-template/static/js/main.346445c5.js.map",
+    "787.0faa2b1f.chunk.js.map": "/d3-bar-template/static/js/787.0faa2b1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9a9d458.css",
+    "static/js/main.346445c5.js"
+  ]
+}
